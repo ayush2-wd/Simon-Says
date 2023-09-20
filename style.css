@@ -1,0 +1,42 @@
+*{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.box{
+    border: 4px solid black;
+    border-radius: 20%;
+    width: 150px;
+    height:150px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.no{
+    display: none;
+}
+
+.back{
+    background-color: red;
+}
+.red{
+    background-color: #d95980;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.green{
+    background-color: #63aac0;
+}
+.flash{
+    background-color: white;
+}
+.purple{
+    background-color: #819ff9;
+}
+.userflash{
+    background-color: green;
+}
